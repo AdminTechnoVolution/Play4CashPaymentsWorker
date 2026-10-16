@@ -1,0 +1,17 @@
+{
+  "common/email/email.module.ts": "050849eca35c47bfe3b23ab6f92dfaac326f45c998cc08afc6ba14b179ae0b6e",
+  "common/email/email.service.ts": "696a7a259dd92c428226097896c2bafe7aefad9908d0663299e1778ebbe3ed65",
+  "common/reliable-commands/context.ts": "7ccddb2baf2119b135b517ab05f832697288f25c3f100b0f9390287b0880868d",
+  "modules/payments/canonical.ts": "47d0281414c201d6c936dfa63979a7be7b665d3aae1ac46c93fca5ab529a1785",
+  "modules/payments/eligibility.ts": "74bf9717ff81fceac238660d67572ac4677c0cc97b6ca6a5c13eb42c95ed4d64",
+  "modules/payments/game-finance.ts": "7f84ff19905f2449ac3e41d53529016b75e21c59a6ffe8bce206545f371e043c",
+  "modules/payments/ledger.service.ts": "23aab9b4fa7f2cb753a449f91d8d21264593a0fb11e46fc2da0c9e6129b886eb",
+  "modules/payments/money.ts": "c7ec8124b99845707f7c2514fbebe741a1c7aadf242541481bdc4ab62c57bf78",
+  "modules/payments/nowpayments.client.ts": "b2f2459d3e3a1e95074767050409b59ad565a875e0675314260728be2e792c7d",
+  "modules/payments/payments-policy.service.ts": "478df1fb34918d7ba1dba25b7765d04519eb6ef5fef7868fe7f1e6e34b51ac75",
+  "modules/payments/payments.service.ts": "1744406a2535ec72bd5c6a52509a59a4b5ca7170a718e03d0db883170f15ca32",
+  "modules/payments/payments.worker.ts": "a8b4d15f4741a71762ca6adb533cc1fc21692f08a917bb5a7376ba901744cf39",
+  "modules/payments/totp.ts": "9536cddbeed0f8404d78ae8503a5e8de58847502f80958bfb1e5269ed873cda8",
+  "modules/payments/tournament-finance.ts": "a9711fb1d9ccb5b64e3f20987a3a05edea3b8906792ac9285297b7024d99f3e3",
+  "modules/payments/withdrawal-authorization.ts": "d9ae2a777dc1d00a3f8bfc7fded360d8c5172648096049cc9a0173a642189143"
+}
