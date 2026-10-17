@@ -8,9 +8,9 @@
   "modules/payments/ledger.service.ts": "23aab9b4fa7f2cb753a449f91d8d21264593a0fb11e46fc2da0c9e6129b886eb",
   "modules/payments/money.ts": "c7ec8124b99845707f7c2514fbebe741a1c7aadf242541481bdc4ab62c57bf78",
   "modules/payments/nowpayments.client.ts": "8d7de4395c945aa248d9692e67cadc1f7a9a5284fcb868a3b65946fe3d037a69",
-  "modules/payments/payments-policy.service.ts": "40c81e9ed506d71a51ea73e20a3836ffed15bad485e13e92e670accb915aca75",
-  "modules/payments/payments.service.ts": "6f6a9cfbfad9d811532bbb738d2b7aac31f9fdfa1bd5d5241350ec7616da3c5e",
-  "modules/payments/payments.worker.ts": "6c47c739a59255ed9cea068a79b2c2574066b7bf287d28aa0ed5c4e220f2e2fb",
+  "modules/payments/payments-policy.service.ts": "b9e916fbd4a8a15a7aa95bb3c201f1f82573127ed4d6a9d755987bf8d524f007",
+  "modules/payments/payments.service.ts": "0d0b64ee42280607b120a490dc65f0acd6ce53937900f49055ab02bdf910172b",
+  "modules/payments/payments.worker.ts": "546f62ab02c9f82fa8756073c1c7762a42b541e79178cd20cafff3418b9d38d6",
   "modules/payments/totp.ts": "9536cddbeed0f8404d78ae8503a5e8de58847502f80958bfb1e5269ed873cda8",
   "modules/payments/tournament-finance.ts": "a9711fb1d9ccb5b64e3f20987a3a05edea3b8906792ac9285297b7024d99f3e3",
   "modules/payments/withdrawal-authorization.ts": "d9ae2a777dc1d00a3f8bfc7fded360d8c5172648096049cc9a0173a642189143"
